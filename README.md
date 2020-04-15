@@ -1,5 +1,5 @@
-## Rotten-Tomatillos
-This project is a clone of Rotten Tomatoes website. The app allows the user to look through movies and add their ratings for a specific movie to the rest of the user base and save their own reviews for repeat viewing! Logged-in users can also delete and modify their own ratings. Once a user logs in, the movies are sorted from most recently rated to least recently rated, with the unrated movies at the bottom of the page. If the user is not logged in, he or she can still see average ratings for movies.
+## Imperial Directive
+This is a clone of Imperial Directive 
 
 
 
