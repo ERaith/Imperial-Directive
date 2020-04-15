@@ -53,7 +53,7 @@ In the project directory, you can run:
 ---
 
 ## Contributors 
-Original App Github Page : [Imperial Directive-Original](git@github.com:derekju/imperial-directive.git)
+Original App Github Page : [Imperial Directive-Original](https://github.com/derekju/imperial-directive)
 * **Erik Raith**  - *????* - [gitHubPage](https://github.com/ERaith)
 
 ---
