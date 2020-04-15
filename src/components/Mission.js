@@ -1,6 +1,6 @@
 // @flow
 
-import AiCard from './AiCard';
+import AiCard from './AiCard.tsx';
 import Button from './Button';
 import {CURRENT_MISSION_KEY} from '../constants';
 import GoalPanelContainer from '../containers/GoalPanelContainer';

@@ -16,9 +16,11 @@ const history = createBrowserHistory();
 const store = createReduxStore(history);
 
 ReactDOM.render(
-  <Provider store={store}>
+  <React.StrictMode>
+    <Provider store={store}>
     <App history={history} />
-  </Provider>,
+    </Provider>
+  </React.StrictMode>,
   // $FlowFixMe
   document.getElementById('root')
 );
